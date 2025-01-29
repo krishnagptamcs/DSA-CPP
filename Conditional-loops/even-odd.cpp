@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     // To check the number even and odd
-    int a = 236596;
+    int a = 2;
 
     if (a % 2 == 0)
     {

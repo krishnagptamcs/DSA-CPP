@@ -9,9 +9,9 @@ int main()
     //****
     //****
 
-    for (int i = 1; i <= 4; i++)
+    for (int row = 1; row <= 4; row++)
     {
-        for (int j = 1; j <= 4; j++)
+        for (int col = 0; col <= 3; col++)
         {
             cout << "*";
         }
